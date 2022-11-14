@@ -1,7 +1,7 @@
 {
-  "t": "PixelWorld",
+  "t": "PixelWorld beta",
   "i": "سرور هم اکنون در دسترس است...",
   "ip": "62.171.143.53",
   "port": "28528",
-  "link": "minecraft://?addExternalServer=RubyLand%20|%20%D8%B1%D9%88%D8%A8%DB%8C%20%D9%84%D9%86%D8%AF|play.mcbe.ir:19132"
+  "link": "minecraft://?addExternalServer=PixelWorld beta%20|%20%D8%B1%D9%88%D8%A8%DB%8C%20%D9%84%D9%86%D8%AF|62.171.143.53:28528"
 }
