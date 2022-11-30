@@ -1,7 +1,7 @@
 {
   "t": "PixelWorld beta",
   "status": "on",
-  "i": "سرور هم اکنون در دسترس است",
+  "i": "سرور آفلاین شد!",
   "ip": "62.171.143.53",
   "port": "28528",
   "link": "minecraft://?addExternalServer=PixelWorld beta|62.171.143.53:28528"
