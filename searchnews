@@ -3,12 +3,14 @@
     "title": "آموزشات",
     "matn": "شما در این پایت میتوانید تمام آموزشات مورد نیاز را مطالعه کنید",
     "link": "help.pne",
+    "info": "پست شده در ",
     "img": "https://s2.uupload.ir/files/images_(3)_8hb9.jpeg"
   },
   {
     "title": "مجوزها",
     "matn": "در این پایت میتوانید یک مجوز برای فروشگاه خود بگیرید تا نمادی برای اعتماد مشتریانتان شود",
     "link": "mojavezha.pne",
+    "info": "jjj",
     "img": "https://s2.uupload.ir/files/بارگیری_clwv.jpeg"
   }
 ]
