@@ -5,5 +5,5 @@
   "ip": "62.171.143.53",
   "port": "19132",
   "link": "minecraft://?addExternalServer=PixelWorld beta|62.171.143.53:28528",
-  "version": "0.1",
+  "version": "0.2"
 }
