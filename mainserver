@@ -1,9 +1,9 @@
   {
-    "status": "آنلاین",
-    "info": "برای ورود کلیک کنید",
-    "ip": "62.171.143.53:28528",
+    "status": "آفلاین",
+    "info": "سرور درحال ساخت است",
+    "ip": "soon",
     "app": "on",
-    "link": "minecraft://?addExternalServer=PixelWorld beta|62.171.143.53:28528",
+    "link": "minecraft://?addExternalServer=PixelWorld beta|play.soon.net:19132",
     "event": "yes",
     "e1": "شب یلدا",
     "e2": "n",
