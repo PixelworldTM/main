@@ -1,9 +1,17 @@
 [
   {
+    "title": "معرفی د بریج",
+    "matn": "یک گیم پرطرفدار، که در سرور قبلی هم مورد استقبال پلیرها قرار گرفت.",
+    "link": "a",
+    "info": "جدید",
+    "new": "new1",
+    "img": "https://uupload.ir/view/images_g6wx.mp4/"
+  },
+  {
     "title": "معرفی لابی",
     "matn": "با لابی جدید سرور آشنا شو!",
     "link": "news.pne/2",
-    "info": "جدید",
+    "info": "ارسال شده در 1/10/22",
     "new": "new1",
     "img": "https://s2.uupload.ir/files/img_20230111_210156_460_0vob.jpg"
   },
@@ -11,7 +19,7 @@
     "title": "پیکسل ورلد",
     "matn": "فعالیت دوباره سرور پیکسل ورلد!",
     "link": "news.pne/1",
-    "info": "پست شده در 1/10/01",
+    "info": "ارسال شده در 1/10/01",
     "new": "new0",
     "img": "https://s2.uupload.ir/files/pixellogo+(1)_3zjm.jpg"
   }
