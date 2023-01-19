@@ -1,0 +1,31 @@
+[
+  {
+    "title": "سرور",
+    "link": "server.pwo",
+    "m1": "به سرور پیکسل ورلد خوش آمدید!",
+    "i1": "https://s2.uupload.ir/files/pixelapp_nmns.png",
+    "m2": "n",
+    "i2": "n",
+    "m3": "n",
+    "i3": "n",
+    "m4": "n",
+    "i4": "n",
+    "m5": "n",
+    "i5": "n",
+    "b1": "وضعیت سرور",
+    "bs1": "pite",
+    "link1": "server.pwo/status",
+    "b2": "اقتصاد سرور",
+    "bs2": "pite",
+    "link2": "server.pwo/ec",
+    "b3": "فروشگاه سرور",
+    "bs3": "pite",
+    "link3": "server.pwo/shop",
+    "b4": "n",
+    "bs4": "n",
+    "link4": "n",
+    "b5": "n",
+    "bs5": "n",
+    "link5": "n"
+  }
+]
