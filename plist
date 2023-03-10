@@ -3,7 +3,16 @@
     "name": "تست",
     "downtxt": "دانلود",
     "file": "http://pixelworld.great-site.net/download/test.mcworld",
-    "category": "#packs",
+    "category": "#all",
+    "pite": "???",
+    "img": "https://s2.uupload.ir/files/icon_2hm6.png",
+    "info": "1MB / 1.19"
+  },
+  {
+    "name": "شیدرپک",
+    "downtxt": "دانلود",
+    "file": "http://pixelworld.great-site.net/download/test.mcworld",
+    "category": "#shaderpack #all",
     "pite": "???",
     "img": "https://s2.uupload.ir/files/icon_2hm6.png",
     "info": "1MB / 1.19"
