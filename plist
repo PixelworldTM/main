@@ -2,13 +2,24 @@
   {
     "name": "وان بلاک",
     "en": "oneblock",
-    "downtxt": "دانلود",
-    "file": "https://dl4.9minecraft.net/index.php?act=download&id=1661074357&hash=6411a789dbead",
+    "downtxt": "دانلود از...",
+    "file": "https://dl4.9minecraft.net/index.php?act=dl&id=1661074357",
     "category": "#all #map",
     "pite": "???",
     "img": "https://www.9minecraft.net/wp-content/uploads/2022/10/Thumbnail-One-Block-Map-MCPE.jpg",
     "info": "1.19",
     "sharelink": "link/map-oneblock"
+  },
+  {
+    "name": "اسکای بلاک",
+    "en": "skyblock",
+    "downtxt": "دانلود",
+    "file": "https://api.mcpedl.com/api/download/396292/?r=eyJpdiI6Ik1UMHUySmRGYWxVZC9uWUNXRUZFQ1E9PSIsInZhbHVlIjoiL2d3U2VTZnh3UmxySXNTeGlMRnMwWnh3SDNaRlNKaS9rZHRmeUsyaWdRZFovRkZ5d094TWMyQmhNMUZTSCtJRGlSWVlTakt0T2VGMUp6SkJYZFJvTUdrQlF1OTVxcnZ3My9YZ0JVeitud0cwUmtBV29BekZVLzQrMFFIM3JONllTMTVlaXhLMWRjOCtxMTEyUWFmWDUybEc0OWtoY09yLzN6czBsRUhnQ29TVDdsOU91S0J3aC95RGxQUFZ6dGtJYUxHTWtPaFFYY3IvZjd6M2tHRHlYQWU0eThnUjRHYUdaYUJmSU42YnlBT0Y3UHBKbkJWeCtaNWRFMmw0bzErMzZPY282VDM3N3dydzhSazN2VnN0UDhoa1I4WHAzangrUkhlb1VDZDArdVlUdEhpRXIzSWtlcG9ibVR2NmkvaHBhWkxsYUd4UHlLV2xBRFJOMDVXQXJ5aGNrb2VQTk9OalZ6R0lFZWpIelBka20xb3pyMndzTEx1MkpCQ1hCTW92UXhXaEhJRzdEYnBxRTF6dkV6YUl5N0hZNnZ2cDlFeFFPS01DVUJNWjNnY0ZmemRZZkNXRUhjaDVmSzhEWmpLbThhV0xKMFJmUURRRmgxMnZHOE9TVUNLbnhOOTJ1RlNmT05aaUE0cFR5NHoySVRXMVFOczd2U1VGT2FzNnNPeGlocFJteDVBNmxob3ZlWVJNS09Yb1kyOHhhdmhtcXlnenA0OFdHbktyR0ViWHAraG1lejlQTWJZTC81Z0dFRFF5TFc5TlhqTFBqMUF2MmhocFlsbDNRZENlL3hOeXFQaENFOG1YdVpRZjh2Y0hlZE9BZ0tNSW5sZmdBTXplUStvSzd0Nk82NFliWG1vb2dvNDhwSENRR2FGMnMwTC9oV2ZCZnNjcElvYkpqK1ZrY05sRU5LR2lEcTJ1ZWs3MXJMS3JKYW9ZQmNxUHFhdmE4Qkx5aXc3cFZDRmNvc0paQml6ZHV2V0d4UmNpeFRQM3YyNUpFTWZaaGRDaWhPVW5nYjdtdnhaT0p2clpCaHZJOFBPMjNCQjFBeWlZMXgvUG8xVWlLbEJFSXpYLzZZMS9vWG5FbHRNT29XMHlqdXZiQk1Rb3dueTdPWXJ5VDRLV3UyNnJpNlY5TFpEY0l2d1MwRlNyWFRTdVNEMXpmY3pzd29yUjBYK0ZZY1d2VXVVS0h3SGsiLCJtYWMiOiI3ZGJhZWU1ZDZjODVjZWRkYzM4N2ViNzVjNGFiOWNkYmM1ZThhMzM0YTk0MGM3YTJjMDA3NDIyNGE0OTY0N2NmIn0=&ft=ec4b95e79530769f2cb01a8d1a20eea5&bd=vwmloubeu5",
+    "category": "#all #map",
+    "pite": "???",
+    "img": "https://api.mcpedl.com/storage/submissions/159677/images/skyblock-119-full_6.png",
+    "info": "1.19",
+    "sharelink": "link/map-skyblock"
   },
   {
     "name": "امانگ آس",
