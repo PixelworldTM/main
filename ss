@@ -1,4 +1,4 @@
   {
-    "ib": "https://s2.uupload.ir/files/488477854674_yj43.png",
-    "iw": "https://s2.uupload.ir/files/487477691826_7o2h.png"
+    "ib": "https://s2.uupload.ir/files/picsart_03-23-03.33.18_yvus.png",
+    "iw": "https://s2.uupload.ir/files/picsart_03-23-03.30.33_abhc.png"
   }
