@@ -2,7 +2,7 @@
     "status": "آفلاین",
     "info": "سرور درحال ساخت است",
     "ip": "soon",
-    "qeue": "false",
+    "queue": "false",
     "app": "on",
     "link": "minecraft://?addExternalServer=PixelWorld beta|play.soon.net:19132",
     "event": "yes",
