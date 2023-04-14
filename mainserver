@@ -4,7 +4,7 @@
     "ip": "soon",
     "queue": "false",
     "app": "on",
-    "dwnp": "false",
+    "dwnp": "true",
     "link": "minecraft://?addExternalServer=PixelWorldd beta|play.soon.net:19132",
     "event": "yes",
     "e1": "n",
