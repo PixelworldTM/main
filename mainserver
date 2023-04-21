@@ -2,7 +2,7 @@
     "status": "آفلاین",
     "info": "سرور درحال ساخت است",
     "ip": "soon",
-    "queue": "https://s8.uupload.ir/files/icons8-queue-96_(4)_xxue.png",
+    "queue": "false",
     "app": "on",
     "dwnp": "false",
     "link": "minecraft://?addExternalServer=PixelWorldd beta|play.soon.net:19132",
