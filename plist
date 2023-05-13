@@ -438,5 +438,27 @@
     "img": "https://s2.uupload.ir/files/unnamed_(1)_qjpz.png",
     "info": "ورژن 1.18.10 | حجم 138MB",
     "sharelink": "link/mcpe1.18.10"
+  },
+  {
+    "name": "ماینکرافت",
+    "en": "minecraft",
+    "downtxt": "دانلود",
+    "file": "https://mcpe-planet.com/wp-content/uploads/2021/05/minecraft-1-17-0.apk",
+    "category": "#versions",
+    "pite": "packs.pwo/versions",
+    "img": "https://s2.uupload.ir/files/unnamed_(1)_qjpz.png",
+    "info": "ورژن 1.17.0 | حجم 123MB",
+    "sharelink": "link/mcpe1.17.0"
+  },
+  {
+    "name": "ماینکرافت",
+    "en": "minecraft",
+    "downtxt": "دانلود",
+    "file": "https://mcpe-planet.com/wp-content/uploads/2021/07/minecraft-pe-1-17-10.apk",
+    "category": "#versions",
+    "pite": "packs.pwo/versions/1.17.10",
+    "img": "https://s2.uupload.ir/files/unnamed_(1)_qjpz.png",
+    "info": "ورژن 1.17.10 | حجم 123MB",
+    "sharelink": "link/mcpe1.17.10"
   }
 ]
