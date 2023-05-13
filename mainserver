@@ -4,7 +4,7 @@
     "ip": "pw.shpixel.ml",
     "queue": "false",
     "app": "on",
-    "dwnp": "false",
+    "dwnp": "true",
     "link": "minecraft://?addExternalServer=PixelWorld beta|pw.shpixel.ml:19132",
     "event": "yes",
     "e1": "n",
